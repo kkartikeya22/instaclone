@@ -55,5 +55,5 @@ Previews the production build locally.
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/socio-pedia.git
+   git clone https://github.com/kkartikeya22/instaclone
    cd socio-pedia
